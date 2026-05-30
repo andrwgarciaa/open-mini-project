@@ -1,9 +1,8 @@
-# 🗺️ Open | Smart Petrol Finder PWA
-
-**Open** is a highly localized, offline-first Progressive Web App (PWA) built with **Next.js** designed to help Australian drivers beat the petrol price cycle.
+# 🗺️ Open | Smart Petrol Finder
 
 Petrol prices in metropolitan Australia can fluctuate by **15c to 40c per litre** between different suburbs or service stations (servos) on the exact same day. **Open** resolves the driver's dilemma by mathematically calculating if detouring to a cheaper suburban servo is profitable, factoring in transit fuel burn costs against gross capacity savings.
 
+Built with Next.js and Antigravity IDE in 2 days.
 ---
 
 ## 🛠️ Keypoints
